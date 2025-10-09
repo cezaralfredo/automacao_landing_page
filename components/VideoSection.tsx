@@ -14,7 +14,7 @@ const VideoSection: React.FC = () => {
         <div className="aspect-video max-w-4xl mx-auto rounded-2xl overflow-hidden shadow-2xl shadow-brand-accent/20">
           <iframe
             className="w-full h-full"
-            src="https://www.youtube.com/embed/dQw4w9WgXcQ?si=R9f-U-1q-yZ4-z-y" // Placeholder video link
+            src="https://www.youtube.com/embed/zoGVP4gRZm8"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
