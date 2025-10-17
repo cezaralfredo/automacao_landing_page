@@ -17,7 +17,7 @@ const CtaSection: React.FC = () => {
             rel="noopener noreferrer"
             className="bg-white text-brand-accent font-bold py-4 px-10 rounded-full text-lg hover:bg-gray-200 transform hover:scale-105 transition-all duration-300 inline-block"
           >
-            Agendar Demonstração Gratuita
+            Quero Conversar com Especialista
           </a>
         </div>
       </div>
