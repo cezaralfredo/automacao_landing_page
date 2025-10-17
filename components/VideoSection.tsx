@@ -9,7 +9,7 @@ const VideoSection: React.FC = () => {
           Veja como a mágica acontece na prática
         </h2>
         <p className="max-w-2xl mx-auto text-brand-text-secondary mb-12">
-          Em menos de 2 minutos, entenda como nosso "Recepcionista Digital" pode transformar seu atendimento.
+          Em menos de 7 minutos, entenda como nosso "Recepcionista Digital" pode transformar seu atendimento.
         </p>
         <div className="aspect-video max-w-4xl mx-auto rounded-2xl overflow-hidden shadow-2xl shadow-brand-accent/20">
           <iframe
